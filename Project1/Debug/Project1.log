@@ -1,0 +1,8 @@
+﻿  源.cpp
+D:\Programtotal\Visual Studio\大二上\数据结构\课程设计-162110112孙欢康\必做1-菜鸟智慧快递\Project1\Project1\Function.h(13,2): warning C4091: “typedef ”: 没有声明变量时忽略“Package_s”的左侧
+D:\Programtotal\Visual Studio\大二上\数据结构\课程设计-162110112孙欢康\必做1-菜鸟智慧快递\Project1\Project1\Function.h(24,2): warning C4091: “typedef ”: 没有声明变量时忽略“Package_m”的左侧
+D:\Programtotal\Visual Studio\大二上\数据结构\课程设计-162110112孙欢康\必做1-菜鸟智慧快递\Project1\Project1\Function.h(35,2): warning C4091: “typedef ”: 没有声明变量时忽略“Package_b”的左侧
+D:\Programtotal\Visual Studio\大二上\数据结构\课程设计-162110112孙欢康\必做1-菜鸟智慧快递\Project1\Project1\Function.h(40,7): warning C4101: “s”: 未引用的局部变量
+D:\Programtotal\Visual Studio\大二上\数据结构\课程设计-162110112孙欢康\必做1-菜鸟智慧快递\Project1\Project1\源.cpp(30,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Programtotal\Visual Studio\大二上\数据结构\课程设计-162110112孙欢康\必做1-菜鸟智慧快递\Project1\Project1\Function.h(660): warning C4715: “Change_today_yesterday_package_file”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> D:\Programtotal\Visual Studio\大二上\数据结构\课程设计-162110112孙欢康\必做1-菜鸟智慧快递\Project1\Debug\Project1.exe
